@@ -15,4 +15,4 @@ The analysis focuses on three major platforms: **Facebook**, **Instagram**, and 
      - timestamp (Upto 2023)
 ### Data Source
 The data used in this project was sourced from the following Kaggle databases:
-- [Kaggle Dataset Link](https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset?resource=download)
+- [Kaggle Dataset Link (Social Media Analysis)](https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset?resource=download)
